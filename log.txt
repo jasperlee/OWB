@@ -1,0 +1,244 @@
+执行日期：20130817155046
+notify call..
+执行日期：20130817155046
+8171549001178--pay success
+执行日期：20130817155046
+invalid order.
+执行日期：20130817155403
+notify call..
+执行日期：20130817155403
+8171549001178--pay success
+执行日期：20130817155403
+invalid order.
+执行日期：20130817155409
+notify call..
+执行日期：20130817155409
+8171528001154--pay success
+执行日期：20130817155409
+invalid order.
+执行日期：20130817155419
+notify call..
+执行日期：20130817155419
+8171539001170--pay success
+执行日期：20130817155419
+invalid order.select * from UnFinishOrder where OrderNum = '8171539001170'
+执行日期：20130817155455
+notify call..
+执行日期：20130817155455
+8171554001180--pay success
+执行日期：20130817155455
+invalid order.select * from UnFinishOrder where OrderNum = '8171554001180'
+执行日期：20130817155801
+notify call..
+执行日期：20130817155801
+8171554001180--pay success
+执行日期：20130817155801
+invalid order.select * from UnFinishOrder where OrderNum = '8171554001180'
+执行日期：20130817160429
+notify call..
+执行日期：20130817160429
+8171549001178--pay success
+执行日期：20130817160444
+notify call..
+执行日期：20130817160444
+8171539001170--pay success
+执行日期：20130817160819
+notify call..
+执行日期：20130817160819
+8171554001180--pay success
+执行日期：20130817161435
+notify call..
+执行日期：20130817161435
+8171549001178--pay success
+执行日期：20130817161435
+invalid order.select * from UnFinishOrder where OrderNum = 8171549001178
+执行日期：20130817161828
+notify call..
+执行日期：20130817161829
+8171554001180--pay success
+执行日期：20130817161829
+invalid order.select * from UnFinishOrder where OrderNum = 8171554001180
+执行日期：20130817163528
+notify call..
+执行日期：20130817163528
+8171634001186--pay success
+执行日期：20130817163717
+notify call..
+执行日期：20130817163717
+8171636001130--pay success
+执行日期：20130817163927
+notify call..
+执行日期：20130817163927
+8171634001186--pay success
+执行日期：20130817164108
+notify call..
+执行日期：20130817164108
+8171636001130--pay success
+执行日期：20130817164915
+notify call..
+执行日期：20130817164915
+8171634001186--pay success
+执行日期：20130817165148
+notify call..
+执行日期：20130817165148
+8171636001130--pay success
+执行日期：20130817165430
+notify call..
+执行日期：20130817165430
+8171528001154--pay success
+执行日期：20130817165430
+invalid order.select * from UnFinishOrder where OrderNum = 8171528001154
+执行日期：20130817165916
+notify call..
+执行日期：20130817165917
+8171634001186--pay success
+执行日期：20130817170112
+notify call..
+执行日期：20130817170112
+8171636001130--pay success
+执行日期：20130817170414
+notify call..
+执行日期：20130817170414
+8171539001170--pay success
+执行日期：20130817170414
+invalid order.select * from UnFinishOrder where OrderNum = 8171539001170
+执行日期：20130817171407
+notify call..
+执行日期：20130817171407
+8171549001178--pay success
+执行日期：20130817171407
+invalid order.select * from UnFinishOrder where OrderNum = 8171549001178
+执行日期：20130817171841
+notify call..
+执行日期：20130817171841
+8171554001180--pay success
+执行日期：20130817171841
+invalid order.select * from UnFinishOrder where OrderNum = 8171554001180
+执行日期：20130817175943
+notify call..
+执行日期：20130817175943
+8171634001186--pay success
+执行日期：20130817180148
+notify call..
+执行日期：20130817180148
+8171636001130--pay success
+执行日期：20130817185455
+notify call..
+执行日期：20130817185455
+8171528001154--pay success
+执行日期：20130817185455
+invalid order.select * from UnFinishOrder where OrderNum = 8171528001154
+执行日期：20130817190437
+notify call..
+执行日期：20130817190437
+8171539001170--pay success
+执行日期：20130817190437
+invalid order.select * from UnFinishOrder where OrderNum = 8171539001170
+执行日期：20130817191434
+notify call..
+执行日期：20130817191434
+8171549001178--pay success
+执行日期：20130817191434
+invalid order.select * from UnFinishOrder where OrderNum = 8171549001178
+执行日期：20130817191803
+notify call..
+执行日期：20130817191803
+8171554001180--pay success
+执行日期：20130817191803
+invalid order.select * from UnFinishOrder where OrderNum = 8171554001180
+执行日期：20130817195913
+notify call..
+执行日期：20130817195913
+8171634001186--pay success
+执行日期：20130817200149
+notify call..
+执行日期：20130817200149
+8171636001130--pay success
+执行日期：20130818005500
+notify call..
+执行日期：20130818005500
+8171528001154--pay success
+执行日期：20130818005500
+invalid order.select * from UnFinishOrder where OrderNum = 8171528001154
+执行日期：20130818005510
+notify call..
+执行日期：20130818005510
+8171528001154--pay success
+执行日期：20130818005510
+invalid order.select * from UnFinishOrder where OrderNum = 8171528001154
+执行日期：20130818010447
+notify call..
+执行日期：20130818010447
+8171539001170--pay success
+执行日期：20130818010447
+invalid order.select * from UnFinishOrder where OrderNum = 8171539001170
+执行日期：20130818011454
+notify call..
+执行日期：20130818011454
+8171549001178--pay success
+执行日期：20130818011454
+invalid order.select * from UnFinishOrder where OrderNum = 8171549001178
+执行日期：20130818011850
+notify call..
+执行日期：20130818011850
+8171554001180--pay success
+执行日期：20130818011850
+invalid order.select * from UnFinishOrder where OrderNum = 8171554001180
+执行日期：20130818015923
+notify call..
+执行日期：20130818015923
+8171634001186--pay success
+执行日期：20130818020150
+notify call..
+执行日期：20130818020150
+8171636001130--pay success
+执行日期：20130818160419
+notify call..
+执行日期：20130818160419
+8171539001170--pay success
+执行日期：20130818160419
+invalid order.select * from UnFinishOrder where OrderNum = 8171539001170
+执行日期：20130818161423
+notify call..
+执行日期：20130818161423
+8171549001178--pay success
+执行日期：20130818161423
+invalid order.select * from UnFinishOrder where OrderNum = 8171549001178
+执行日期：20130818161800
+notify call..
+执行日期：20130818161800
+8171554001180--pay success
+执行日期：20130818161800
+invalid order.select * from UnFinishOrder where OrderNum = 8171554001180
+执行日期：20130818165949
+notify call..
+执行日期：20130818165949
+8171634001186--pay success
+执行日期：20130818170138
+notify call..
+执行日期：20130818170138
+8171636001130--pay success
+执行日期：20130819130729
+notify call..
+执行日期：20130819130729
+8191305010445--pay success
+执行日期：20130819181906
+notify call..
+执行日期：20130819181906
+8191818001156--pay success
+执行日期：20130830191746
+notify call..
+执行日期：20130830191746
+8301914001180--pay success
+执行日期：20130830194503
+notify call..
+执行日期：20130830194503
+8301944001163--pay success
+执行日期：20130830220234
+notify call..
+执行日期：20130830220234
+8302201001176--pay success
+执行日期：20130903095437
+notify call..
+执行日期：20130903095437
+9030953001192--pay success

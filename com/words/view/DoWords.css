@@ -1,0 +1,45 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+
+
+.text_font{
+
+	font-family:"Lucida Sans Unicode";  
+    font-size:14;
+	color:#000000;
+	font-weight:bold;
+}
+
+.tip_text_font{
+	font-family:"Lucida Sans Unicode";  
+	font-size:14;
+	color:#ff0000;
+	font-weight:bold;
+	
+}
+
+.label_font{
+	font-family:"Lucida Sans Unicode";  
+	font-size:12;
+	color:#000000;
+	font-weight:normal;
+}
+
+.table_font{
+	
+	font-family:"Lucida Sans Unicode";  
+	font-size:10;
+	color:#000000;
+	font-weight:bold;
+	verticalAlign:bottom;
+
+}
+.myCustomButton {
+	upSkin:Embed(source="pic/denglu_3.png");
+	overSkin:Embed(source="pic/denglu_3_1.png");
+	downSkin:Embed(source="pic/denglu_3_1.png");
+    disabledSkin:Embed(source="pic/denglu_3_1.png");
+}
+
